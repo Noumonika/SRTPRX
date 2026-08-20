@@ -10,7 +10,7 @@ let opener = _____WB$wombat$assign$function_____("opener");
 (function () {
     'use strict';
 
-    Lampa.Utils.putScriptAsync(['https://web.archive.org/web/20250701103541/https://lampame.github.io/main/Shikimori/Shikimori.js'], function () { });
+    Lampa.Utils.putScriptAsync(['https://raw.githubusercontent.com/Noumonika/SRTPRX/refs/heads/main/Shikimori.js'], function () { });
 
 })();
 
